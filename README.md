@@ -37,20 +37,76 @@ Sou orfão de tecnologia. Uso a que faz mais sentido para o problema que irei re
 
 Desenvolvo nas seguintes linguagens de programação:
 
-- Javascript
-- Typescript
-- Java
-- C
-- C#
-- Python
-- R
-- Dart
-- Fortran
+<table align="center">
+  <tr>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/javascript-logo.png" width="25" height="25" />
+      <br>
+      JavaScript
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/typescript-logo.svg" width="25" height="25" />
+      <br>
+      TypeScript
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/java-logo.svg" width="25" height="25" />
+      <br>
+      Java
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/c-logo.png" width="25" height="25" />
+      <br>
+      C
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/c%23-logo.png" width="25" height="25" />
+      <br>
+      C#
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/python-logo.png" width="25" height="25" />
+      <br>
+      Python
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/r-logo.png" width="25" height="25" />
+      <br>
+      R
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/dart-logo.png" width="25" height="25" />
+      <br>
+      Dart
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/fortran-logo.png" width="25" height="25" />
+      <br>
+      Fortran
+    </td>
+  </tr>
+</table>
 
 As minhas linguagens preferidas são:
-- Typescript
-- Java
-- Python
+<table align="center">
+  <tr>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/typescript-logo.svg" width="25" height="25" />
+      <br>
+      TypeScript
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/python-logo.png" width="25" height="25" />
+      <br>
+      Python
+    </td>
+    <td align="center" width="103">
+      <img src="https://github-dbrazl.s3.amazonaws.com/dbrazl/java-logo.svg" width="25" height="25" />
+      <br>
+      Java
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Em Desenvolvimento
 
