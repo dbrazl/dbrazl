@@ -4,11 +4,15 @@
 
 ## 😀 Sobre mim
 
-Sou Engenheiro de Software de nível Especialista e CEO, com grande vivência em aplicações móveis, aplicações web (Front-end), aplicações a nível de servidor (Back-end), e aplicações de área de trabalho (Desktop).
+Com 7 anos de experiência na área de Tecnologia da Informação e 5 anos de atuação no mercado, sou especialista em Engenharia de Software, Arquitetura de Software Distribuído, Inteligência Artificial, Business Intelligence (BI), e em Mercado Financeiro e de Capitais.
 
-Estou a 7 anos em contato com a área de tecnologia da informação. Atuo a 5 anos no mercado. Sou especialista em Inteligência Artificial e Aprendizado de Máquina, em Análise e Inteligência de Negócios (BI),  e em Arquitetura de Software Distribuído.
+Possuo 8 graduações e 5 MBAs, com foco em Gestão, Economia e Tecnologia. Atualmente, curso um MBA em Ciência de Dados e um Mestrado em Modelagem Computacional.
 
-Tenho um amplo conhecimento na área de gestão, economia e engenharia de software. Possuo 8 graduações concluídas, 3 MBAs concluídos, e estou cursando mais 3 MBAs para me tornar especialista em Ciência e Análise de Dados, Mercado Financeiro e de Capitais, e em Engenharia de Software.
+Como Engenheiro de Software, tenho sólida experiência no desenvolvimento de aplicações móveis, web, back-end e desktop, utilizando linguagens como JavaScript, TypeScript, Python, Java, C, C#, R, Dart e Fortran.
+
+Participei de diversos projetos, incluindo e-commerces, soluções de IA, sistemas de mineração, entre outros. Fui campeão do maior Hackathon da América Latina, o Hacking Rio 2022, onde desenvolvi uma rede neural para classificação de imagens.
+
+Se você busca inovação e resultados em tecnologia, vamos conversar sobre projetos e oportunidades!.
 
 [Acesse meu LinkedIn](https://www.linkedin.com/in/dbrazl/)
 
@@ -110,16 +114,15 @@ As minhas linguagens preferidas são:
 
 ## 🌱 Em Desenvolvimento
 
-Atualmente, estou focado em expandir os serviços tecnológicos da minha empresa, oferecendo soluções de ponta para o mercado de e-commerce. Estou sempre em busca de novas maneiras de melhorar a qualidade e a usabilidade dos sistemas que desenvolvo.
-
-Além disso, nos estudos estou focado nas minhas pós-graduações para me tornar especialista em Ciência e Análise de Dados, Mercado Financeiro e de Capitais, e em Engenharia de Software.
+Nos estudos estou focado nas minhas pós-graduações para me tornar Especialista em Ciência de Dados e Mestre em Modelagem Computacional.
+Já na minha carreira, estou focado em cargos de liderança, de especialista e também no desenvolvimento da minha empresa. 
 
 ## 📈 Estatísticas
 
 - 70+ projetos realizados
 - 1º lugar no Hacking Rio 2022
 - 8 graduações concluídas
-- 3 MBAs concluídos
+- 5 MBAs concluídos
 
 ## 🤝 Conecte-se Comigo
 
@@ -134,4 +137,4 @@ Além disso, nos estudos estou focado nas minhas pós-graduações para me torna
 
 ---
 
-"A tecnologia é apenas uma ferramenta. Pessoas são as verdadeiras estrelas." - Tim Berners-Lee
+"Um vencedor é um sonhador que nunca desiste." - Nelson Mandela
