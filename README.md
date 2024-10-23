@@ -108,8 +108,10 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <br>
 <br>
-<br>
-<br>
+
+> [!TIP]
+> Aproveite que está aqui e explore os repositórios públicos! 
+
 <br>
 <hr>
 <br>
