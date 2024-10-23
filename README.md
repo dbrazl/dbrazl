@@ -1,7 +1,7 @@
 <h1 align="center">🖖 Saudações! Eu sou o Daniel</h1>
 <br>
 
-<img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px" align="right">
 
 <p align="left"> 
 Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos no mercado</strong>, sou especialista em Engenharia de Software e Arquitetura de Software, focado em desenvolver soluções de alto desempenho e inovação tecnológica. Minhas especialidades abrangem áreas como Inteligência Artificial, Business Intelligence (BI) e Mercado Financeiro, sempre comprometido com a entrega de valor por meio de qualidade e eficiência.
