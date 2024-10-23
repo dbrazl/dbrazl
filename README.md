@@ -125,7 +125,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 <br>
 
 <p align="left">
-  <strong>🔢 Business Intelligence:</strong>
+  <strong>📊 Business Intelligence:</strong>
 <p>
 
 ![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
