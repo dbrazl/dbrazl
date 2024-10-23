@@ -30,7 +30,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <a href="mailto:daniel.braz@vyox.io" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
   </a>
-  <a href="tel:+5524992252251" title="WhatsApp">
+  <a href="https://web.whatsapp.com/send?phone=5524992252251" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/dot.braz/" title="Instagram">
