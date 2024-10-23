@@ -106,11 +106,19 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <a href="#">Veja todas tecnologias e ferramentas que domino</a>
 
+<p align="left">
+  <strong>🔢 Business Intelligence:</strong>
+<p>
+
+![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
+
+<a href="#">Veja todas tecnologias e ferramentas que domino</a>
+
 <br>
 <br>
 
 > [!TIP]
-> Aproveite que está aqui e explore os repositórios públicos! 
+> Aproveite que está aqui e explore os repositórios públicos!
 
 <br>
 <hr>
