@@ -50,6 +50,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   Possuo como principais tecnologias e ferramentas de desenvolvimento:
 </p>
 
+<br>
+
 <p align="left">
   <strong>💻 Front-end:</strong>
 <p>
@@ -62,6 +64,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![+31](https://img.shields.io/badge/-+31-333333?style=flat)
 
 <a href="./FRONT_END.md">Veja todas tecnologias e ferramentas que domino</a>
+
+<br>
 
 <p align="left">
   <strong>⚙️ Back-end:</strong>
@@ -76,6 +80,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <a href="./BACK_END.md">Veja todas tecnologias e ferramentas que domino</a>
 
+<br>
+
 <p align="left">
   <strong>📱 Mobile:</strong>
 <p>
@@ -83,6 +89,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
 
 <a href="#">Veja todas tecnologias e ferramentas que domino</a>
+
+<br>
 
 <p align="left">
   <strong>🧠 IA e Ciência de Dados:</strong>
@@ -94,6 +102,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <a href="#">Veja todas tecnologias e ferramentas que domino</a>
 
+<br>
+
 <p align="left">
   <strong>🖥️ Desktop:</strong>
 <p>
@@ -102,6 +112,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <a href="#">Veja todas tecnologias e ferramentas que domino</a>
 
+<br>
+
 <p align="left">
   <strong>🔢 Modelagem Computacional:</strong>
 <p>
@@ -109,6 +121,8 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
 
 <a href="#">Veja todas tecnologias e ferramentas que domino</a>
+
+<br>
 
 <p align="left">
   <strong>🔢 Business Intelligence:</strong>
