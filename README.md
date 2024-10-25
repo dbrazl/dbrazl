@@ -1,7 +1,15 @@
 <h1 align="center">🖖 Saudações! Eu sou o Daniel</h1>
 <br>
 
-<img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px" align="right">
+<picture>
+  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+  <img align="right">
+</picture>
+
+<picture>
+  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+  <img style="display: block; margin: 0 auto">
+</picture>
 
 <p align="justify"> 
 Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos no mercado</strong>, sou especialista em Engenharia de Software e Arquitetura de Software, focado em desenvolver soluções de alto desempenho e inovação tecnológica. Minhas especialidades abrangem áreas como Inteligência Artificial, Business Intelligence (BI) e Mercado Financeiro, sempre comprometido com a entrega de valor por meio de qualidade e eficiência.
@@ -44,7 +52,16 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 <h2 align="center">🛠️ Tecnologias e ferramentas</h2>
 <br>
 
-<img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<picture>
+  <source media="(min-width:870px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
+  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px">
+  <img align="right">
+</picture>
+
+<picture>
+  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+  <img style="display: block; margin: 0 auto">
+</picture>
 
 <p align="left">
   Possuo como principais tecnologias e ferramentas de desenvolvimento:
@@ -96,7 +113,11 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>🧠 IA e Ciência de Dados:</strong>
 <p>
 
-<img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-4.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<picture>
+  <source media="(min-width:870px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-4.png" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
+  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-4.png" min-width="200px" max-width="200px" width="200px" alt="ilustração de um computador">
+  <img align="right">
+</picture>
 
 ![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
 
