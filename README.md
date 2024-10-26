@@ -6,10 +6,12 @@
   <img align="right">
 </picture>
 
-<picture>
-  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
-  <img style="display: block; margin: 0 auto">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+    <img style="display: block">
+  </picture>
+</p>
 
 <p align="justify"> 
 Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos no mercado</strong>, sou especialista em Engenharia de Software e Arquitetura de Software, focado em desenvolver soluções de alto desempenho e inovação tecnológica. Minhas especialidades abrangem áreas como Inteligência Artificial, Business Intelligence (BI) e Mercado Financeiro, sempre comprometido com a entrega de valor por meio de qualidade e eficiência.
@@ -58,10 +60,12 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <img align="right">
 </picture>
 
-<picture>
-  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
-  <img style="display: block; margin: 0 auto">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+    <img style="display: block;">
+  </picture>
+</p>
 
 <p align="left">
   Possuo como principais tecnologias e ferramentas de desenvolvimento:
