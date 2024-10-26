@@ -56,13 +56,13 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <picture>
   <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
-  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px">
+  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px">
   <img align="right">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+    <source media="(max-width:897px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
     <img style="display: block;">
   </picture>
 </p>
@@ -119,7 +119,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 
 <picture>
   <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
-  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="200px" max-width="200px" width="200px" alt="ilustração de um computador">
+  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="200px" max-width="200px" width="200px" alt="ilustração de um computador">
   <img align="right">
 </picture>
 
