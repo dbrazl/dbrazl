@@ -77,12 +77,12 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>💻 Front-end:</strong>
 <p>
 
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=00599C)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=C62E2E)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![+31](https://img.shields.io/badge/-+31-333333?style=flat)
+![Svelte.js](https://img.shields.io/badge/-Svelte.js-333333?style=flat&logo=svelte)
+![+37](https://img.shields.io/badge/-+31-333333?style=flat)
 
 <a href="./FRONT_END.md">Veja todas tecnologias e ferramentas que domino</a>
 
@@ -92,11 +92,11 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>⚙️ Back-end:</strong>
 <p>
 
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=orange)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=green)
-![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=c%2B%2B&logoColor=A179DC)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestJS&logoColor=D9224C)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=black)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![Fast API](https://img.shields.io/badge/Fast%20API-333333.svg?style=flat&logo=fastAPI)
+![.Net Core](https://img.shields.io/badge/-.Net%20Core-333333?style=flat&logo=.NET&logoColor=6A4097)
 ![+53](https://img.shields.io/badge/-+53-333333?style=flat)
 
 <a href="./BACK_END.md">Veja todas tecnologias e ferramentas que domino</a>
