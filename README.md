@@ -2,12 +2,12 @@
 <br>
 
 <picture>
-  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+  <source media="(min-width:720px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
   <img align="right">
 </picture>
 
 <picture>
-  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+  <source media="(max-width: 719px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
   <img style="display: block; margin: 0 auto">
 </picture>
 
