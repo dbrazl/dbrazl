@@ -107,9 +107,14 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>📱 Mobile:</strong>
 <p>
 
-![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-333333.svg?style=flat&logo=flutter&logoColor=5AC2F0)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=7248B6)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=00599C)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=00D2B8)
+![+18](https://img.shields.io/badge/-+18-333333?style=flat)
 
-<a href="#">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./MOBILE.md">Veja todas tecnologias e ferramentas que domino</a>
 
 <br>
 
