@@ -125,6 +125,33 @@
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/stitches.png" width="50" height="50">
       <p>Stitches</p>
     </td>
+    <td align="center" width="80">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/lodash.png" width="50" height="50">
+      <p>Lodash</p>
+    </td>
+    <td align="center" width="80">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/formik.png" width="50" height="50">
+      <p>Formik</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/yup.png" width="50" height="50">
+      <p>Yup</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/zod.svg" width="50" height="50">
+      <p>Zod</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/date.fns.png" width="50" height="50">
+      <p>date-fns</p>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/moment.js.png" width="50" height="50">
+      <p>Moment.js</p>
+    </td>
   </tr>
 </table>
 <br>
