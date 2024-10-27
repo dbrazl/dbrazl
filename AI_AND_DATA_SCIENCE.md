@@ -82,6 +82,18 @@
 </table>
 <br>
 
+<h2 align="center">LLMs</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/chatgpt.png" width="50" height="50">
+      <p>ChatGPT</p>
+    </td>
+  </tr>
+</table>
+<br>
+
 <h2 align="center">Ferramentas de MLOps</h2>
 
 <table align="center">
