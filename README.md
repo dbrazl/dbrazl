@@ -158,9 +158,13 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>🔢 Modelagem Computacional:</strong>
 <p>
 
-![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=green)
+![R](https://img.shields.io/badge/-R-333333.svg?style=flat&logo=r&logoColor=2266B8)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=5968BA)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=orange)
+![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=fortran&logoColor=6F4D91)
 
-<a href="#">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./COMPUTING_MODELING.md">Veja todas tecnologias e ferramentas que domino</a>
 
 <br>
 
