@@ -128,9 +128,14 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <img align="right">
 </picture>
 
-![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333.svg?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%2d-learn-333333?style=flat&logo=scikitlearn)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-333333?style=flat&logo=python&logoColor=green)
+![MLFlow](https://img.shields.io/badge/-MLFlow-333333?style=flat&logo=MLFlow)
+![+27](https://img.shields.io/badge/-+27-333333?style=flat)
 
-<a href="#">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./AI_AND_DATA_SCIENCE.md">Veja todas tecnologias e ferramentas que domino</a>
 
 <br>
 
