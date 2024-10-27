@@ -203,6 +203,10 @@
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/neo4j.png" width="50" height="50">
       <p>Neo4J</p>
     </td>
+    <td align="center" width="100">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/elasticsearch.png" width="50" height="50">
+      <p>Elasticsearch</p>
+    </td>
   </tr>
 </table>
 <br>
