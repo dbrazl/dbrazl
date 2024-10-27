@@ -143,9 +143,14 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
   <strong>🖥️ Desktop:</strong>
 <p>
 
-![Em breve](https://img.shields.io/badge/-Em%20breve-C62E2E?style=flat&logoColor=00599C)
+![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=openjdk&logoColor=orange)
+![Electron.js](https://img.shields.io/badge/Electron.js-333333.svg?style=flat&logo=electron)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=C62E2E)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![+30](https://img.shields.io/badge/-+30-333333?style=flat)
 
-<a href="#">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./DESKTOP.md">Veja todas tecnologias e ferramentas que domino</a>
 
 <br>
 
