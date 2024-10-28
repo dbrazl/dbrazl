@@ -1,16 +1,16 @@
-<a href="./FRONT_END.en.us.md">
+<a href="./FRONT_END.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">💻 Front-end - Ferramentas e tecnologias</h1>
+<h1 align="center">💻 Front-end - Tools and Technologies</h1>
 
-<p align="center">Possuo domino nas seguintes ferramentas e tecnologias de <strong>front-end</strong>:</p>
+<p align="center">I have expertise in the following <strong>front-end</strong> tools and technologies:</p>
 <br>
 
-<h2 align="center">Linguagens de programação, marcação e estilo</h2>
+<h2 align="center">Programming, Markup, and Styling Languages</h2>
 
 <table align="center">
   <tr>
@@ -62,7 +62,7 @@
 </table>
 <br>
 
-<h2 align="center">Bibliotecas</h2>
+<h2 align="center">Libraries</h2>
 
 <table align="center">
   <tr>
@@ -163,7 +163,7 @@
 </table>
 <br>
 
-<h2 align="center">Pré-processadores CSS</h2>
+<h2 align="center">CSS Preprocessors</h2>
 
 <table align="center">
   <tr>
@@ -179,7 +179,7 @@
 </table>
 <br>
 
-<h2 align="center">Teste automatizados</h2>
+<h2 align="center">Automated Testing</h2>
 
 <table align="center">
   <tr>
@@ -203,7 +203,7 @@
 </table>
 <br>
 
-<h2 align="center">Empacotadores</h2>
+<h2 align="center">Bundlers</h2>
 
 <table align="center">
   <tr>
@@ -219,7 +219,7 @@
 </table>
 <br>
 
-<h2 align="center">Tecnologias Java</h2>
+<h2 align="center">Java Technologies</h2>
 
 <table align="center">
   <tr>
