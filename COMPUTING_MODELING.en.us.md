@@ -1,16 +1,16 @@
-<a href="./COMPUTING_MODELING.en.us.md">
+<a href="./COMPUTING_MODELING.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">🔢 Modelagem Computacional - Ferramentas e tecnologias</h2>
+<h1 align="center">🔢 Computational Modeling - Tools and Technologies</h2>
 
-<p align="center">Possuo domino nas seguintes ferramentas e tecnologias de <strong>modelagem computacional</strong>:</p>
+<p align="center">I have expertise in the following <strong>computational modeling</strong> tools and technologies:</p>
 <br>
 
-<h2 align="center">Linguagens de programação</h2>
+<h2 align="center">Programming Languages</h2>
 
 <table align="center">
   <tr>
