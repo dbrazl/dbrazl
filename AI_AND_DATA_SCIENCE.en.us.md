@@ -1,16 +1,16 @@
-<a href="./AI_AND_DATA_SCIENCE.en.us.md">
+<a href="./AI_AND_DATA_SCIENCE.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">🧠 IA e Ciência de Dados - Ferramentas e tecnologias</h1>
+<h1 align="center">🧠 AI and Data Science - Tools and Technologies</h1>
 
-<p align="center">Possuo domino nas seguintes ferramentas e tecnologias de <strong>IA e Ciência de Dados</strong>:</p>
+<p align="center">I have expertise in the following <strong>AI and Data Science</strong> tools and technologies:</p>
 <br>
 
-<h2 align="center">Linguagens de programação e de consulta</h2>
+<h2 align="center">Programming and Query Languages</h2>
 
 <table align="center">
   <tr>
@@ -30,7 +30,7 @@
 </table>
 <br>
 
-<h2 align="center">Bibliotecas</h2>
+<h2 align="center">Libraries</h2>
 
 <table align="center">
   <tr>
@@ -101,7 +101,7 @@
 </table>
 <br>
 
-<h2 align="center">Ferramentas de MLOps</h2>
+<h2 align="center">MLOps Tools</h2>
 
 <table align="center">
   <tr>
@@ -117,7 +117,7 @@
 </table>
 <br>
 
-<h2 align="center">Persistência de dados</h2>
+<h2 align="center">Data Persistence</h2>
 
 <table align="center">
   <tr>
@@ -129,7 +129,7 @@
 </table>
 <br>
 
-<h2 align="center">Banco de dados</h2>
+<h2 align="center">Databases</h2>
 
 <table align="center">
   <tr>
@@ -153,7 +153,7 @@
 </table>
 <br>
 
-<h2 align="center">Autenticação e autorização</h2>
+<h2 align="center">Authentication and Authorization</h2>
 
 <table align="center">
   <tr>
@@ -173,7 +173,7 @@
 </table>
 <br>
 
-<h2 align="center">Infraestrutura</h2>
+<h2 align="center">Infrastructure</h2>
 
 <table align="center">
   <tr>
@@ -205,7 +205,7 @@
 </table>
 <br>
 
-<h2 align="center">Testes automatizados</h2>
+<h2 align="center">Automated Testing</h2>
 
 <table align="center">
   <tr>
