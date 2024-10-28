@@ -1,16 +1,16 @@
-<a href="./BACK_END.en.us.md">
+<a href="./BACK_END.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">⚙️ Back-end - Ferramentas e tecnologias</h2>
+<h1 align="center">⚙️ Back-end - Tools and Technologies</h2>
 
-<p align="center">Possuo domino nas seguintes ferramentas e tecnologias de <strong>back-end</strong>:</p>
+<p align="center">I have expertise in the following <strong>back-end</strong> tools and technologies:</p>
 <br>
 
-<h2 align="center">Linguagens de programação e de consulta</h2>
+<h2 align="center">Programming and Query Languages</h2>
 
 <table align="center">
   <tr>
@@ -73,7 +73,7 @@
 </table>
 <br>
 
-<h2 align="center">Bibliotecas</h2>
+<h2 align="center">Libraries</h2>
 
 <table align="center">
   <tr>
@@ -116,7 +116,7 @@
 </table>
 <br>
 
-<h2 align="center">Persistência de dados</h2>
+<h2 align="center">Data Persistence</h2>
 
 <table align="center">
   <tr>
@@ -171,7 +171,7 @@
 </table>
 <br>
 
-<h2 align="center">Banco de dados</h2>
+<h2 align="center">Databases</h2>
 
 <table align="center">
   <tr>
@@ -218,7 +218,7 @@
 </table>
 <br>
 
-<h2 align="center">Autenticação e autorização</h2>
+<h2 align="center">Authentication and Authorization</h2>
 
 <table align="center">
   <tr>
@@ -257,7 +257,7 @@
 </table>
 <br>
 
-<h2 align="center">Infraestrutura</h2>
+<h2 align="center">Infrastructure</h2>
 
 <table align="center">
   <tr>
@@ -289,7 +289,7 @@
 </table>
 <br>
 
-<h2 align="center">Mensageria</h2>
+<h2 align="center">Messaging</h2>
 
 <table align="center">
   <tr>
@@ -305,7 +305,7 @@
 </table>
 <br>
 
-<h2 align="center">Testes automatizados</h2>
+<h2 align="center">Automated Testing</h2>
 
 <table align="center">
   <tr>
