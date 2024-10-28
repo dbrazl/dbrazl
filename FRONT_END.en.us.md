@@ -34,6 +34,10 @@
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/css.svg" width="50" height="50">
       <p>CSS</p>
     </td>
+    <td align="center" width="80">
+      <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/shell.png" width="50" height="50">
+      <p>Shell</p>
+    </td>
   </tr>
 </table>
 <br>
