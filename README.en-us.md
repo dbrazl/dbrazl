@@ -1,43 +1,43 @@
 <a href="#">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">🖖 Saudações! Eu sou o Daniel</h1>
+<h1 align="center">🖖 Greetings! I am Daniel.</h1>
 <br>
 
 <picture>
-  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="Illustration of a computer" min-width="400px" max-width="321px" width="400px">
   <img align="right">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(max-width:1159px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="ilustração de um computador" min-width="400px" max-width="321px" width="400px">
+    <source media="(max-width:1159px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="Illustration of a computer" min-width="400px" max-width="321px" width="400px">
     <img style="display: block">
   </picture>
 </p>
 
 <p align="justify"> 
-Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos no mercado</strong>, sou especialista em Engenharia de Software e Arquitetura de Software, focado em desenvolver soluções de alto desempenho e inovação tecnológica. Minhas especialidades abrangem áreas como Inteligência Artificial, Business Intelligence (BI) e Mercado Financeiro, sempre comprometido com a entrega de valor por meio de qualidade e eficiência.
+With <strong>7 years of experience in IT</strong> and over <strong>5 years in the industry</strong>, I am a specialist in Software Engineering and Software Architecture, focused on developing high-performance solutions and technological innovation. My expertise spans areas such as Artificial Intelligence, Business Intelligence (BI), and Financial Markets, always committed to delivering value through quality and efficiency.
 </p>
 
 <p align="justify">
-Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA em Ciência de Dados e um Mestrado em Modelagem Computacional. Tenho <strong> ampla experiência no desenvolvimento de aplicações front-end, mobile, back-end, desktop, IA e de engenharia</strong>.
+I hold <strong>8 degrees and 5 MBAs</strong>, in addition to currently pursuing an MBA in Data Science and a Master’s in Computational Modeling. I have <strong>extensive experience in developing front-end, mobile, back-end, desktop, AI, and engineering applications</strong>.
 </p>
 
 <p align="justify">
-  🥇 Fui <strong>campeão do Hacking Rio 2022</strong>, onde desenvolvi uma rede neural para classificação de imagens.
+  🥇 I was <strong>the champion of Hacking Rio 2022</strong>, where I developed a neural network for image classification.
 </p>
 
 <p align="justify">
-  Se você procura alguém para transformar ideias em soluções tecnológicas de impacto, vamos conversar sobre novos projetos e como posso contribuir com sua equipe.
+  If you're looking for someone to turn ideas into impactful technological solutions, let’s talk about new projects and how I can contribute to your team.
 </p>
 
 <p align="justify">
-  💌 Entre em contato via: ⤵️
+  💌 Get in touch via: ⤵️
 </p>
 
 <p align="left">
@@ -58,24 +58,24 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 <br>
 <br>
 
-<h2 align="center">🛠️ Tecnologias e ferramentas</h2>
+<h2 align="center">🛠️ Technologies and Tools</h2>
 <br>
 
 <picture>
-  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
-  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px">
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" min-width="400px" max-width="400px" width="400px" alt="Illustration of a computer">
+  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="Illustration of a computer" min-width="200px" max-width="200px" width="200px">
   <img align="right">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(max-width:897px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+    <source media="(max-width:897px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-2.png?" alt="Illustration of a computer" min-width="400px" max-width="400px" width="400px">
     <img style="display: block;">
   </picture>
 </p>
 
 <p align="left">
-  Possuo como principais tecnologias e ferramentas de desenvolvimento:
+  My main development technologies and tools include:
 </p>
 
 <br>
@@ -91,7 +91,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Svelte.js](https://img.shields.io/badge/-Svelte.js-333333?style=flat&logo=svelte)
 ![+37](https://img.shields.io/badge/-+31-333333?style=flat)
 
-<a href="./FRONT_END.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./FRONT_END.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
@@ -106,7 +106,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-333333?style=flat&logo=.NET&logoColor=6A4097)
 ![+53](https://img.shields.io/badge/-+53-333333?style=flat)
 
-<a href="./BACK_END.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./BACK_END.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
@@ -121,17 +121,17 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=00D2B8)
 ![+18](https://img.shields.io/badge/-+18-333333?style=flat)
 
-<a href="./MOBILE.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./MOBILE.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
 <p align="left">
-  <strong>🧠 IA e Ciência de Dados:</strong>
+  <strong>🧠 AI and Data Science:</strong>
 <p>
 
 <picture>
-  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
-  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="200px" max-width="200px" width="200px" alt="ilustração de um computador">
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="400px" max-width="400px" width="400px" alt="Illustration of a computer">
+  <source media="(min-width:898px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-3.png?" min-width="200px" max-width="200px" width="200px" alt="Illustration of a computer">
   <img align="right">
 </picture>
 
@@ -142,7 +142,7 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![MLFlow](https://img.shields.io/badge/-MLFlow-333333?style=flat&logo=MLFlow)
 ![+27](https://img.shields.io/badge/-+27-333333?style=flat)
 
-<a href="./AI_AND_DATA_SCIENCE.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./AI_AND_DATA_SCIENCE.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
@@ -157,12 +157,12 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![+30](https://img.shields.io/badge/-+30-333333?style=flat)
 
-<a href="./DESKTOP.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./DESKTOP.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
 <p align="left">
-  <strong>🔢 Modelagem Computacional:</strong>
+  <strong>🔢 Computational Modeling:</strong>
 <p>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=green)
@@ -171,12 +171,12 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgd2lkdGg9IjMzLjkyMTc5MSIKICAgaGVpZ2h0PSI0Ni4wMDAzMzYiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzMiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImphdmEtYXIyMS5zdmciCiAgIGlua3NjYXBlOmV4cG9ydC1maWxlbmFtZT0iamF2YS5wbmciCiAgIGlua3NjYXBlOmV4cG9ydC14ZHBpPSI5NiIKICAgaW5rc2NhcGU6ZXhwb3J0LXlkcGk9Ijk2IgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMzIiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3MyIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiMwMDAwMDAiCiAgICAgYm9yZGVyb3BhY2l0eT0iMC4yNSIKICAgICBpbmtzY2FwZTpzaG93cGFnZXNoYWRvdz0iMiIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjZDFkMWQxIiAvPgogIDxnCiAgICAgaWQ9ImczIgogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03LjAwMDIwODksLTcpIj4KICAgIDxwYXRoCiAgICAgICBkPSJtIDE3Ljk1Niw0Mi41NjIgYyAwLDAgLTEuNzY3LDEuMDc1IDEuMjMsMS4zODMgMy42LDAuNDYgNS41MywwLjM4NCA5LjUyNCwtMC4zODQgMCwwIDEuMDc1LDAuNjkgMi41MzUsMS4yMyAtOC45ODcsMy44NCAtMjAuMzU0LC0wLjIzIC0xMy4yODgsLTIuMjI3IHogTSAxNi44MDQsMzcuNTcgYyAwLDAgLTEuOTIsMS40NiAxLjA3NSwxLjc2NyAzLjkxNywwLjM4NCA3LDAuNDYgMTIuMjksLTAuNjE0IDAsMCAwLjY5LDAuNzY4IDEuODQzLDEuMTUyIC0xMC44MywzLjIyNiAtMjIuOTY2LDAuMzA3IC0xNS4yMDgsLTIuMzA0IHogbSAyMS4yLDguNzU2IGMgMCwwIDEuMzA2LDEuMDc1IC0xLjQ2LDEuOTIgLTUuMTQ2LDEuNTM2IC0yMS41ODMsMS45OTcgLTI2LjE5MiwwIC0xLjYxMywtMC42OSAxLjQ2LC0xLjcgMi40NTgsLTEuODQzIDEsLTAuMjMgMS41MzYsLTAuMjMgMS41MzYsLTAuMjMgLTEuNzY2LC0xLjIzIC0xMS43NTIsMi41MzUgLTUuMDcsMy42IDE4LjM1NywyLjk5NSAzMy40ODgsLTEuMzA2IDI4LjcyNiwtMy40NTYgeiBNIDE4LjgsMzIuMzQ3IGMgMCwwIC04LjM3MiwxLjk5NyAtMi45OTYsMi42ODggMi4zMDQsMC4zMDcgNi44MzYsMC4yMyAxMS4wNiwtMC4wNzcgMy40NTYsLTAuMzA3IDYuOTEzLC0wLjkyMiA2LjkxMywtMC45MjIgMCwwIC0xLjIzLDAuNTM4IC0yLjA3NCwxLjA3NSAtOC41MjYsMi4yMjcgLTI0Ljg4NiwxLjIzIC0yMC4yLC0xLjA3NSAzLjk5NCwtMS45MiA3LjI5NywtMS43IDcuMjk3LC0xLjcgeiBtIDE0Ljk3OCw4LjM3MiBjIDguNjAyLC00LjQ1NSA0LjYwOCwtOC43NTYgMS44NDMsLTguMjE4IC0wLjY5LDAuMTU0IC0xLDAuMzA3IC0xLDAuMzA3IDAsMCAwLjIzLC0wLjQ2IDAuNzY4LC0wLjYxNCA1LjQ1MywtMS45MiA5Ljc1NSw1Ljc2IC0xLjc2Nyw4Ljc1NiAwLDAgMC4wNzcsLTAuMDc3IDAuMTU0LC0wLjIzIHogTSAxOS42NDYsNTIuODU0IGMgOC4yOTUsMC41MzggMjAuOTcsLTAuMzA3IDIxLjI3NiwtNC4yMjQgMCwwIC0wLjYxNCwxLjUzNiAtNi44MzYsMi42ODggLTcuMDY2LDEuMzA2IC0xNS44MjIsMS4xNTIgLTIwLjk3LDAuMzA3IDAsMCAxLjA3NSwwLjkyMiA2LjUzLDEuMjMgeiIKICAgICAgIGZpbGw9IiM0ZTc4OTYiCiAgICAgICBpZD0icGF0aDEiCiAgICAgICBzdHlsZT0iZmlsbDojZjU4MjE5O2ZpbGwtb3BhY2l0eToxIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMjguNTU1LDcgYyAwLDAgNC43NjIsNC44NCAtNC41MzIsMTIuMTM2IC03LjQ1LDUuOTE0IC0xLjcsOS4yOTQgMCwxMy4xMzQgLTQuMzc4LC0zLjkxNyAtNy41MjcsLTcuMzczIC01LjM3NywtMTAuNiAzLjE1LC00Ljc2MiAxMS44MjgsLTcuMDY2IDkuOTA4LC0xNC42NyB6IG0gLTIuNDU4LDIyLjA0NCBjIDIuMjI3LDIuNTM1IC0wLjYxNSw0Ljg0IC0wLjYxNSw0Ljg0IDAsMCA1LjY4NCwtMi45MiAzLjA3MiwtNi41MyAtMi4zOCwtMy40NTYgLTQuMjI0LC01LjE0NiA1Ljc2LC0xMC45MDcgMCwwIC0xNS43NDYsMy45MTcgLTguMjE4LDEyLjU5NiB6IgogICAgICAgZmlsbD0iI2Y1ODIxOSIKICAgICAgIGlkPSJwYXRoMiIgLz4KICA8L2c+Cjwvc3ZnPgo=)
 ![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=fortran&logoColor=6F4D91)
 
-<a href="./COMPUTING_MODELING.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./COMPUTING_MODELING.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 
 <p align="left">
-  <strong>📊 BI e Engenharia de Dados:</strong>
+  <strong>📊 BI and Data Engineering:</strong>
 <p>
 
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
@@ -186,16 +186,16 @@ Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA 
 ![Typescript](https://img.shields.io/badge/-Typescript.js-333333?style=flat&logo=typescript)
 ![+24](https://img.shields.io/badge/-+24-333333?style=flat)
 
-<a href="./BI_AND_DATA_ENGINEER.md">Veja todas tecnologias e ferramentas que domino</a>
+<a href="./BI_AND_DATA_ENGINEER.md">See all the technologies and tools I specialize in.</a>
 
 <br>
 <br>
 
 > [!TIP]
-> Aproveite que está aqui e explore os repositórios públicos!
+> While you’re here, feel free to explore the public repositories!
 
 <br>
 <hr>
 <br>
 
-"Um vencedor é um sonhador que nunca desiste." - Nelson Mandela
+"A winner is a dreamer who never gives up." - Nelson Mandela
