@@ -1,16 +1,16 @@
-<a href="./BI_AND_DATA_ENGINEER.en.us.md">
+<a href="./BI_AND_DATA_ENGINEER.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
-    &nbsp;&nbsp;See English version
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
+    &nbsp;&nbsp;Ver versão em português
   </p>
 </a>
 
-<h1 align="center">📊 BI e Engenharia de Dados - Ferramentas e tecnologias</h2>
+<h1 align="center">📊 BI and Data Engineering - Tools and Technologies</h2>
 
-<p align="center">Possuo domino nas seguintes ferramentas e tecnologias de <strong>BI e engenharia de dados</strong>:</p>
+<p align="center">I have expertise in the following <strong>BI and data engineering</strong> tools and technologies:</p>
 <br>
 
-<h2 align="center">Linguagens de programação</h2>
+<h2 align="center">Programming Languages</h2>
 
 <table align="center">
   <tr>
@@ -34,7 +34,7 @@
 </table>
 <br>
 
-<h2 align="center">Bibliotecas</h2>
+<h2 align="center">Libraries</h2>
 
 <table align="center">
   <tr>
@@ -62,7 +62,7 @@
 </table>
 <br>
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="center">Tools</h2>
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -77,7 +77,7 @@
 </table>
 <br>
 
-<h2 align="center">Visualização</h2>
+<h2 align="center">Visualization</h2>
 
 <table align="center">
   <tr>
@@ -93,7 +93,7 @@
 </table>
 <br>
 
-<h2 align="center">Persistência de dados</h2>
+<h2 align="center">Data Persistence</h2>
 
 <table align="center">
   <tr>
@@ -121,7 +121,7 @@
 </table>
 <br>
 
-<h2 align="center">Banco de dados</h2>
+<h2 align="center">Databases</h2>
 
 <table align="center">
   <tr>
@@ -164,7 +164,7 @@
 </table>
 <br>
 
-<h2 align="center">Infraestrutura</h2>
+<h2 align="center">Infrastructure</h2>
 
 <table align="center">
   <tr>
