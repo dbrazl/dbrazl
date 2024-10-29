@@ -34,7 +34,7 @@
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/fortran.png" width="50" height="50">
       <p>Fortran</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/shell.png" width="50" height="50">
       <p>Shell</p>
     </td>

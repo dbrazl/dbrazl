@@ -14,19 +14,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/python.webp" width="50" height="50">
       <p>Python</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/r.png" width="50" height="50">
       <p>R</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/sql.png" width="50" height="50">
       <p>SQL</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/shell.png" width="50" height="50">
       <p>Shell</p>
     </td>
@@ -38,46 +38,46 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pandas.svg" width="50" height="50">
       <p>Pandas</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/numpy.png" width="50" height="50">
       <p>Numpy</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/scikit.learn.webp" width="50" height="50">
       <p>Scikit-learn</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/statsmodels.svg" width="50" height="50">
       <p>Statsmodels</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/matplotlib.png" width="50" height="50">
       <p>Matplotlib</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/seaborn.svg" width="50" height="50">
       <p>Seaborn</p>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/tensorflow.png" width="50" height="50">
       <p>Tensorflow</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/keras.png" width="50" height="50">
       <p>Keras</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pytorch.png" width="50" height="50">
       <p>PyTorch</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/fastai.png" width="50" height="50">
       <p>FastAI</p>
     </td>
@@ -97,7 +97,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/chatgpt.png" width="50" height="50">
       <p>ChatGPT</p>
     </td>
@@ -109,11 +109,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/mlflow.png" width="50" height="50">
       <p>MLFlow</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/aws.sagemaker.jpg" width="50" height="50">
       <p>AWS Sagemarker</p>
     </td>
@@ -213,7 +213,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pytest.png" width="50" height="50">
       <p>pytest</p>
     </td>

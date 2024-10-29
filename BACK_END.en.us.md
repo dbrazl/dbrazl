@@ -45,7 +45,7 @@
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pl.sql.svg" width="50" height="50">
       <p>PL/SQL</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/shell.png" width="50" height="50">
       <p>Shell</p>
     </td>
@@ -313,23 +313,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/jest.png" width="50" height="50">
       <p>Jest</p>
     </td>
-    <td align="center" width="80" height="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/testing.library.png" width="50" height="50">
       <p>Testing Library</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/supertest.png" width="50" height="50">
       <p>Supertest</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/junit.png" width="50" height="50">
       <p>JUnit</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pytest.png" width="50" height="50">
       <p>pytest</p>
     </td>

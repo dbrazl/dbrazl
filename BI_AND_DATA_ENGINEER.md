@@ -38,11 +38,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/pandas.svg" width="50" height="50">
       <p>Pandas</p>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/logos/numpy.png" width="50" height="50">
       <p>Numpy</p>
     </td>
