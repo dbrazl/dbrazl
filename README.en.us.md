@@ -1,43 +1,86 @@
-<a href="./README.md">
+<a href="./README.en.us.md">
   <p align="right">
-    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/brasil.png" width="19px" height="10px">
-    &nbsp;&nbsp;Ver versão em português
+    <img src="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/flags/estados.unidos.png" width="19px" height="10px">
+    &nbsp;&nbsp;Veja a versão em português
   </p>
 </a>
 
-<h1 align="center">🖖 Greetings! I am Daniel.</h1>
+<h1 align="center">🖖 Greetings! I'm Daniel</h1>
 <br>
 
 <picture>
-  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="Illustration of a computer" min-width="400px" max-width="321px" width="400px">
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="illustration of a computer" min-width="400px" max-width="321px" width="400px">
   <img align="right">
 </picture>
 
 <p align="center">
   <picture>
-    <source media="(max-width:1159px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="Illustration of a computer" min-width="400px" max-width="321px" width="400px">
+    <source media="(max-width:1159px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-1.png?" alt="illustration of a computer" min-width="400px" max-width="321px" width="400px">
     <img style="display: block">
   </picture>
 </p>
 
 <p align="justify"> 
-With <strong>7 years of experience in IT</strong> and over <strong>5 years in the industry</strong>, I am a specialist in Software Engineering and Software Architecture, focused on developing high-performance solutions and technological innovation. My expertise spans areas such as Artificial Intelligence, Business Intelligence (BI), and Financial Markets, always committed to delivering value through quality and efficiency.
+With <strong>7 years of experience in IT</strong> and over <strong>5 years of direct market involvement</strong>, I am a Software Engineering and Software Architecture Specialist, focused on scalable, high-performance solutions and technological innovation.
 </p>
 
 <p align="justify">
-I hold <strong>8 degrees and 5 MBAs</strong>, in addition to currently pursuing an MBA in Data Science and a Master’s in Computational Modeling. I have <strong>extensive experience in developing front-end, mobile, back-end, desktop, AI, and engineering applications</strong>.
+I have extensive experience in:
+
+- 🛒 **E-commerce:** developing robust platforms with a focus on usability, performance, and conversion optimization;
+
+- 🤖 **Artificial Intelligence applied to business:** solutions using LLMs, NLP, and neural networks that reduce costs, increase efficiency, and improve user experience;
+
+- ⚙️ **Automation and operational processes:** building systems that optimize operations, reduce errors, and accelerate decision-making.
 </p>
 
 <p align="justify">
-  🥇 I was <strong>the champion of Hacking Rio 2022</strong>, where I developed a neural network for image classification.
+I am also a specialist in:
+
+- 🧠 Artificial Intelligence and Machine Learning;
+
+- 📊 Business Intelligence and Analytics;
+
+- 📈 Data Science;
+
+- 💵 Financial and Capital Markets.
+</p>
+
+<picture>
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-4.png?" min-width="400px" max-width="400px" width="400px" alt="illustration of a computer">
+  <img align="right">
+</picture>
+
+<p align="justify">
+📚 I am currently pursuing a <strong>Master’s in Computational Modeling</strong> and hold <strong>8 undergraduate degrees and 6 MBAs</strong>, focused on Management, Technology, and Economics.
 </p>
 
 <p align="justify">
-  If you're looking for someone to turn ideas into impactful technological solutions, let’s talk about new projects and how I can contribute to your team.
+My hands-on experience includes the development of:
+
+- 💻 Web, mobile, desktop, and back-end applications;
+
+- 🔢 Solutions based on AI and complex mathematical models;
+
+- 🚀 High-impact projects, such as e-commerce platforms, industrial solutions, and analytical systems.
 </p>
 
 <p align="justify">
-  💌 Get in touch via: ⤵️
+  👨‍💻 I am proficient in several programming languages, including:
+  <br>
+  JavaScript, TypeScript, Python, Java, C, C++, C#, R, Dart, and Fortran.
+</p>
+
+<p align="justify">
+  🥇 I was the <strong>winner of Hacking Rio 2022</strong>, the largest hackathon in Latin America, which had over <strong>1700 competitors</strong> in that edition, with a neural network-based solution for image classification.
+</p>
+
+<p align="justify">
+  If you're looking for a multidisciplinary, strategic professional with strong technical skills, I'm open to new projects and opportunities. Let's talk about how I can contribute to your organization.
+</p>
+
+<p align="justify">
+  💌 Contact me via: ⤵️
 </p>
 
 <p align="left">

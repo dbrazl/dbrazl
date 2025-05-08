@@ -21,19 +21,62 @@
 </p>
 
 <p align="justify"> 
-Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos no mercado</strong>, sou especialista em Engenharia de Software e Arquitetura de Software, focado em desenvolver soluções de alto desempenho e inovação tecnológica. Minhas especialidades abrangem áreas como Inteligência Artificial, Business Intelligence (BI) e Mercado Financeiro, sempre comprometido com a entrega de valor por meio de qualidade e eficiência.
+Com <strong>7 anos de experiência em TI</strong> e mais de <strong>5 anos atuando diretamente no mercado</strong>, sou Especialista em Engenharia de Software e Arquitetura de Software, com foco em soluções escaláveis, de alto desempenho e inovação tecnológica.
 </p>
 
 <p align="justify">
-Possuo <strong>8 graduações e 5 MBAs</strong>, além de estar cursando um MBA em Ciência de Dados e um Mestrado em Modelagem Computacional. Tenho <strong> ampla experiência no desenvolvimento de aplicações front-end, mobile, back-end, desktop, IA e de engenharia</strong>.
+Tenho ampla experiência em:
+
+- 🛒 **E-commerce:** desenvolvimento de plataformas robustas, com foco em usabilidade, performance e aumento de conversão;
+
+- 🤖 **Inteligência Artificial aplicada a negócios:** soluções com LLMs, NLP e redes neurais que reduzem custos, aumentam a eficiência e melhoram a experiência do usuário;
+
+- ⚙️ **Automação e processos operacionais:** construção de sistemas que otimizam operações, reduzem erros e aceleram a tomada de decisão.
 </p>
 
 <p align="justify">
-  🥇 Fui <strong>campeão do Hacking Rio 2022</strong>, onde desenvolvi uma rede neural para classificação de imagens.
+Também sou especialista em:
+
+- 🧠 Inteligência Artificial e Aprendizado de Máquina;
+
+- 📊 Business Intelligence e Analytics;
+
+- 📈 Ciência de Dados;
+
+- 💵 Mercado Financeiro e de Capitais.
+</p>
+
+<picture>
+  <source media="(min-width:1160px)" srcset="https://github-dbrazl.s3.us-east-1.amazonaws.com/dbrazl/ilustration-4.png?" min-width="400px" max-width="400px" width="400px" alt="ilustração de um computador">
+  <img align="right">
+</picture>
+
+<p align="justify">
+📚 Atualmente, curso um <strong>Mestrado em Modelagem Computacional</strong> e possuo <strong>8 graduações e 6 MBAs</strong>, com foco em Gestão, Tecnologia e Economia.
 </p>
 
 <p align="justify">
-  Se você procura alguém para transformar ideias em soluções tecnológicas de impacto, vamos conversar sobre novos projetos e como posso contribuir com sua equipe.
+Minha experiência prática inclui o desenvolvimento de:
+
+- 💻 Aplicações web, mobile, desktop e back-end;
+
+- 🔢 Soluções baseadas em IA e modelos matemáticos complexos;
+
+- 🚀 Projetos de impacto, como e-commerces, soluções industriais e plataformas analíticas.
+</p>
+
+<p align="justify">
+  👨‍💻 Domino diversas linguagens de programação, incluindo:
+  <br>
+  JavaScript, TypeScript, Python, Java, C, C++, C#, R, Dart e Fortran.
+</p>
+
+<p align="justify">
+  🥇 Fui <strong>campeão do Hacking Rio 2022</strong>, o maior hackathon da América Latina, que nessa edição teve mais de <strong>1700 competidores</strong>, com uma solução baseada em rede neural para classificação de imagens.
+</p>
+
+<p align="justify">
+  Se você busca um profissional multidisciplinar, estratégico e com alta capacidade técnica, estou aberto a novos projetos e oportunidades. Vamos conversar sobre como posso contribuir com a sua organização.
 </p>
 
 <p align="justify">
